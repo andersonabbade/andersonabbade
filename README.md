@@ -1,7 +1,13 @@
-Olá! sou Anderson 
 
-- 📚 Estudando javaScript / react
-- <h2 align="left">Olá! Sou Anderson.</h2>
+
+
+- <h1 lign="left">Olá! Sou Anderson.</h1>
+
+- Desenvolvedor frontend apaixonado por tecnologia, minha busca por conhecimento
+- na area de tecnologia é constante.
+
+
+
 
 ###
 
