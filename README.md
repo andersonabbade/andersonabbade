@@ -3,8 +3,9 @@
 
 - <h1 lign="left">Olá! Sou Anderson.</h1>
 
-- Desenvolvedor frontend apaixonado por tecnologia, minha busca por conhecimento
-- na area de tecnologia é constante.
+- Desenvolvedor frontend, minha busca por conhecimento na area
+  de tecnologia é contante.📚
+
 
 
 
