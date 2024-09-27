@@ -3,8 +3,11 @@
 
 - <h1 lign="left">Olá! Sou Anderson.</h1>
 
+
+- Cursando Gestão da tecnologia da Informação.📚
 - Desenvolvedor frontend, minha busca por conhecimento na area
-  de tecnologia é contante.📚
+  de tecnologia é contante.
+  
 
 
 
