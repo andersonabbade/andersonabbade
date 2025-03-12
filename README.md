@@ -4,7 +4,7 @@
 - <h1 lign="left">Olá! Sou Anderson.</h1>
 
 
-- Cursando Gestão da tecnologia da Informação.📚
+- Cursando Analise e desenvolvimento de Sistemas.📚
 - Sou um programador apaixonado por tecnologia e desenvolvimento web. Sempre busco criar soluções eficientes e com um design moderno. Estou constantemente aprimorando minhas habilidades e aprendendo novas tecnologias.
   
 
