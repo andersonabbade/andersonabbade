@@ -5,8 +5,7 @@
 
 
 - Cursando Gestão da tecnologia da Informação.📚
-- Desenvolvedor frontend, minha busca por conhecimento na area
-  de tecnologia é contante.
+- Sou um programador apaixonado por tecnologia e desenvolvimento web. Sempre busco criar soluções eficientes e com um design moderno. Estou constantemente aprimorando minhas habilidades e aprendendo novas tecnologias.
   
 
 
