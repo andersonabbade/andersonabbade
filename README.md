@@ -6,8 +6,6 @@
 🚀 Focado em criar interfaces modernas, funcionais e eficientes
 </p>
 
----
-
 ## 🚀 Sobre mim
 
  Sou apaixonado por tecnologia e desenvolvimento web, com foco na criação de interfaces modernas e experiências intuitivas para o usuário.
