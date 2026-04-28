@@ -17,37 +17,6 @@ Atualmente, estou aprofundando meus conhecimentos em lógica de programação, J
 
 Tenho experiência no desenvolvimento de landing pages e projetos web, utilizando boas práticas de desenvolvimento e foco em performance e usabilidade.
 
----
-
-## 🛠️ Tecnologias e Ferramentas
-
-- HTML5  
-- CSS3  
-- JavaScript  
-- React (em aprendizado)  
-- Git & GitHub  
-- VS Code  
-
----
-
-## 📈 Objetivo
-
-Busco minha primeira oportunidade como Desenvolvedor Front-End, onde eu possa contribuir com soluções eficientes, evoluir tecnicamente e gerar impacto real nos projetos.
-
----
-
-## 📫 Contato
-
-- 📧 Email: andersonvelton89@gmail.com  
-- 💼 LinkedIn: https://www.linkedin.com/in/anderson-luis-dev/  
-
----
-
-⭐ Se quiser acompanhar minha evolução, confira meus projetos aqui no GitHub!
-
-
-
-
 
 ###
 
