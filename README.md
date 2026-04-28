@@ -1,11 +1,10 @@
 
 <h1 align="left">Olá! 👋 Sou Anderson Abbade</h1>
 
-<p align="left">
 🎓 Estudante de Análise e Desenvolvimento de Sistemas <br>
 🚀 Focado em criar interfaces modernas, funcionais e eficientes. 
 💻 Desenvolvedor Front-End.
-</p>
+
 
 ## 🚀 Sobre mim
 
