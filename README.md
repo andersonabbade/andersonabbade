@@ -3,8 +3,8 @@
 
 <p align="left">
 🎓 Estudante de Análise e Desenvolvimento de Sistemas <br>
-💻 Desenvolvedor Front-End em evolução <br>
-🚀 Focado em criar interfaces modernas, funcionais e eficientes
+💻 Desenvolvedor Front-End.
+🚀 Focado em criar interfaces modernas, funcionais e eficientes.
 </p>
 
 ---
