@@ -1,16 +1,22 @@
-
 <h1 align="left">Olá! 👋 Sou Anderson Abbade</h1>
 
-🎓 Estudante de Análise e Desenvolvimento de Sistemas 
-💻 Desenvolvedor Front-End.
+<p align="left">
+🎓 Estudante de Análise e Desenvolvimento de Sistemas <br>
+💻 Desenvolvedor Front-End <br>
+🚀 Focado em criar interfaces modernas, funcionais e eficientes
+</p>
 
+---
 
 ## 🚀 Sobre mim
 
- Sou apaixonado por tecnologia e desenvolvimento web, com foco na criação de interfaces modernas e experiências intuitivas para o usuário.
+Sou apaixonado por tecnologia e desenvolvimento web, com foco na criação de interfaces modernas e experiências intuitivas para o usuário.
+
 Atualmente, estou aprofundando meus conhecimentos em lógica de programação, JavaScript e React, sempre buscando escrever códigos mais limpos, organizados e escaláveis.
+
 Tenho experiência no desenvolvimento de landing pages e projetos web, utilizando boas práticas de desenvolvimento e foco em performance e usabilidade.
 
+---
 
 ###
 
